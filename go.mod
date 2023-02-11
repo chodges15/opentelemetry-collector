@@ -1,4 +1,4 @@
-module go.opentelemetry.io/collector
+module github.com/chodges15/opentelemetry-collector
 
 go 1.16
 
